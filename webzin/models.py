@@ -22,5 +22,5 @@ class Section:
 class Section_Hashtag:
     pass
 
-class Reply:
+class Comment:
     pass
